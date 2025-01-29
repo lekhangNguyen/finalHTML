@@ -17,7 +17,7 @@ body {
   
   .header-content {
     margin-left: 2rem;
-    margin-right: 2rem;
+    margin-right: 46rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -51,7 +51,7 @@ body {
   }
   
   .gif-content {
-    width: 55%;
+    width: 75%;
     
   }
   
